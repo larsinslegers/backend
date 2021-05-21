@@ -1,0 +1,425 @@
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.json
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.exe
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.deps.json
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.json
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.dev.json
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.pdb
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csprojAssemblyReference.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfo.cs
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.Manifest.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.xml
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/PlankApi.styles.css
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.RazorTargetAssemblyInfo.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CopyComplete
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.pdb
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.genruntimeconfig.cache
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.Yaml.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.Yaml.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cs
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.xml
+//Mac/Home/Desktop/Web4/web4API/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.xml
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.deps.json
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.json
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.dev.json
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.pdb
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.xml
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.Yaml.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.Yaml.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csprojAssemblyReference.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfoInputs.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfo.cs
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CoreCompileInputs.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.Manifest.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.xml
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/PlankApi.styles.css
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.RazorTargetAssemblyInfo.cache
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CopyComplete
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.dll
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.xml
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.pdb
+/Users/larsinslegers/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.genruntimeconfig.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csprojAssemblyReference.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfoInputs.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfo.cs
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cs
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.xml
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.pdb
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/appsettings.json
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.exe
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.deps.json
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.json
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.dev.json
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.pdb
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.xml
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.Yaml.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.Yaml.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.Manifest.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.xml
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/PlankApi.styles.css
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.RazorTargetAssemblyInfo.cache
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CopyComplete
+//Mac/Home/Desktop/Web4/PlankApi/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.genruntimeconfig.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.deps.json
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.json
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.runtimeconfig.dev.json
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.pdb
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/PlankApi.xml
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NJsonSchema.Yaml.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Core.Yaml.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/YamlDotNet.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csprojAssemblyReference.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfoInputs.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.AssemblyInfo.cs
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CoreCompileInputs.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.Manifest.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/staticwebassets/PlankApi.StaticWebAssets.xml
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/PlankApi.styles.css
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.RazorTargetAssemblyInfo.cache
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.csproj.CopyComplete
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.dll
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.xml
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.pdb
+/Users/larsinslegers/Desktop/PlankApi kopie/PlankApi/obj/Debug/netcoreapp3.1/PlankApi.genruntimeconfig.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\appsettings.json
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.exe
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.deps.json
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.runtimeconfig.json
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.runtimeconfig.dev.json
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.pdb
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\PlankApi.xml
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.AssemblyInfo.cs
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\staticwebassets\PlankApi.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\staticwebassets\PlankApi.StaticWebAssets.xml
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\PlankApi.styles.css
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.csproj.CopyComplete
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.xml
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.pdb
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\obj\Debug\netcoreapp3.1\PlankApi.genruntimeconfig.cache
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\PlankApi kopie\PlankApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll

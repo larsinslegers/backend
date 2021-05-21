@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlankApi</name>
+    </assembly>
+    <members>
+        <member name="M:PlankApi.Controllers.AccountController.CreateToken(PlankApi.DTOs.LoginDTO)">
+            <summary>
+            Login
+            </summary>
+            <param name="model">the login details</param>
+        </member>
+        <member name="M:PlankApi.Controllers.AccountController.Register(PlankApi.DTOs.RegisterDTO)">
+            <summary>
+            Register a user
+            </summary>
+            <param name="model">the user details</param>
+            <returns></returns>
+        </member>
+        <member name="M:PlankApi.Controllers.AccountController.CheckAvailableUserName(System.String)">
+            <summary>
+            Checks if an email is available as username
+            </summary>
+            <returns>true if the email is not registered yet</returns>
+            <param name="email">Email.</param>/
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.GetAllPlanken(System.String,System.String,System.String)">
+            <summary>
+            Get all cutting boards ordered by title
+            </summary>
+            <returns>array of cutting boards</returns>
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.GetPlank(System.Int32)">
+            <summary>
+            Get the cutting board with given id
+            </summary>
+            <param name="id">the id of the cutting board</param>
+            <returns>The cutting board</returns>
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.Create(PlankApi.DTOs.PlankDTO)">
+            <summary>
+            Adds a new cutting board
+            </summary>
+            <param name="plank">the new cutting board</param>
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.Delete(System.Int32)">
+            <summary>
+            Deletes a cutting board
+            </summary>
+            <param name="id">the id of the cutting board to be deleted</param>
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.VerminderAantal(System.Int32,System.Int32)">
+            <summary>
+            Modifies a cutting board
+            </summary>
+            <param name="id">id of the cutting board to be modified</param>
+            <param name="aantal">the modified cutting board </param>
+        </member>
+        <member name="M:PlankApi.Controllers.CuttingBoardsController.GetFavorites">
+            <summary>
+            Get favorite cuttingboard of current user
+            </summary>
+        </member>
+    </members>
+</doc>
